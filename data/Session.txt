@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "session_id": "4jk2jsg22je52jlr",
+    "user_id": 0
+  },
+  {
+    "id": 1,
+    "session_id": "4brje5eg5er2lk5k",
+    "user_id": 0
+  },
+  {
+    "id": 2,
+    "session_id": "s22222j4j5ggkbdj",
+    "user_id": 1
+  },
+  {
+    "id": 3,
+    "session_id": "jj2223g4jjl45e2k",
+    "user_id": 0
+  },
+  {
+    "id": 4,
+    "session_id": "leges2dege5le42l",
+    "user_id": 0
+  },
+  {
+    "id": 5,
+    "session_id": "3ljjjj34dgdjsl2s",
+    "user_id": 0
+  },
+  {
+    "id": 6,
+    "session_id": "klsj5jeld2gjk2le",
+    "user_id": 0
+  },
+  {
+    "id": 7,
+    "session_id": "2g4lgl553rlkk52e",
+    "user_id": 0
+  },
+  {
+    "id": 8,
+    "session_id": "s222e224le5jgse2",
+    "user_id": 0
+  }
+]

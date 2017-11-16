@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "content": "111",
+    "user_id": 0,
+    "weibo_id": 0
+  },
+  {
+    "id": 1,
+    "content": "评论",
+    "user_id": 0,
+    "weibo_id": 0
+  },
+  {
+    "id": 2,
+    "content": "234",
+    "user_id": 0,
+    "weibo_id": 0
+  },
+  {
+    "id": 3,
+    "content": "345",
+    "user_id": 0,
+    "weibo_id": 0
+  },
+  {
+    "id": 5,
+    "content": "成功吗",
+    "user_id": 1,
+    "weibo_id": 1
+  }
+]
